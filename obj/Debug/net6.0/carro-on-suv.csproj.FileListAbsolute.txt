@@ -1,0 +1,15 @@
+C:\projetoEstruturadeDados\carro-on-suv\bin\Debug\net6.0\carro-on-suv.exe
+C:\projetoEstruturadeDados\carro-on-suv\bin\Debug\net6.0\carro-on-suv.deps.json
+C:\projetoEstruturadeDados\carro-on-suv\bin\Debug\net6.0\carro-on-suv.runtimeconfig.json
+C:\projetoEstruturadeDados\carro-on-suv\bin\Debug\net6.0\carro-on-suv.dll
+C:\projetoEstruturadeDados\carro-on-suv\bin\Debug\net6.0\carro-on-suv.pdb
+C:\projetoEstruturadeDados\carro-on-suv\obj\Debug\net6.0\carro-on-suv.csproj.AssemblyReference.cache
+C:\projetoEstruturadeDados\carro-on-suv\obj\Debug\net6.0\carro-on-suv.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetoEstruturadeDados\carro-on-suv\obj\Debug\net6.0\carro-on-suv.AssemblyInfoInputs.cache
+C:\projetoEstruturadeDados\carro-on-suv\obj\Debug\net6.0\carro-on-suv.AssemblyInfo.cs
+C:\projetoEstruturadeDados\carro-on-suv\obj\Debug\net6.0\carro-on-suv.csproj.CoreCompileInputs.cache
+C:\projetoEstruturadeDados\carro-on-suv\obj\Debug\net6.0\carro-on-suv.dll
+C:\projetoEstruturadeDados\carro-on-suv\obj\Debug\net6.0\refint\carro-on-suv.dll
+C:\projetoEstruturadeDados\carro-on-suv\obj\Debug\net6.0\carro-on-suv.pdb
+C:\projetoEstruturadeDados\carro-on-suv\obj\Debug\net6.0\carro-on-suv.genruntimeconfig.cache
+C:\projetoEstruturadeDados\carro-on-suv\obj\Debug\net6.0\ref\carro-on-suv.dll
